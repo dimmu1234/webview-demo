@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Home\Desktop\WebViewApp-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\Home\Desktop\WebViewApp-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-21.0.3_d9880fe8a7c3abfc051a5007c8e408ef96997d70.jar" />
+    </item>
+    <item
+        jar="C:\Users\Home\Desktop\WebViewApp-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="C:\Users\Home\Desktop\WebViewApp-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.1.0_68a7bb31a7917a789ea955e15ac6fbba205ca458.jar" />
+    </item>
+    <item
+        jar="C:\Users\Home\Desktop\WebViewApp-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\Home\Desktop\WebViewApp-master\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0_e32be7c894019a53f19d8a7577a62a4baa50d471.jar" />
+    </item>
+    <item
+        jar="D:\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\Home\Desktop\WebViewApp-master\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0_a3606c9ee4b714455c796eb1ba57490330e5eb32.jar" />
+    </item>
+    <item
+        jar="C:\Users\Home\Desktop\WebViewApp-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="C:\Users\Home\Desktop\WebViewApp-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.1.0_4a43c52c00f2c8d7e9fc3a2424952c98eaadfd65.jar" />
+    </item>
+    <item
+        jar="C:\Users\Home\Desktop\WebViewApp-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\Home\Desktop\WebViewApp-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.2.0_c87fdec095f2b56269b70fff9f2f6443f7d3843e.jar" />
+    </item>
+
+</items>
